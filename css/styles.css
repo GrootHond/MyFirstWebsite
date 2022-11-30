@@ -50,6 +50,7 @@ h3 {
 .mountain {
   position: relative;
   top: 30px
+  width: 75%
 }
 
 @keyframes float {
