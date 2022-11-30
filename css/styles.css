@@ -38,6 +38,7 @@ h3 {
   position: absolute;
   top: 225px;
   right: 400px;
+  width: 20%
 }
 
 .top-cloud {
@@ -45,6 +46,7 @@ h3 {
   margin: 10px;
   left: 10px;
   top: 50px;
+  width: 20%
 }
 
 .mountain {
